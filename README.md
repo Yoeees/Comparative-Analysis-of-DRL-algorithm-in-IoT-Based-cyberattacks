@@ -42,6 +42,9 @@ To conduct a comparative analysis of off-policy and on-policy Deep Reinforcement
 - Proximal Policy Optimization (PPO)
 - Recurrent Proximal Policy Optimization (PPO with LSTM)
 
+## Training Parameters
+- Run for 500k timesteps (if you have much better gpu run for 1m+ timesteps for much better coverage)
+
 ## Evaluation Metrics
 - Precision
 - Recall
